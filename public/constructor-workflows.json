@@ -1,0 +1,1 @@
+{"version":1,"workflows":[{"id":"consultar_inventario","name":"Consultar inventario","description":"Consulta productos y el resumen global del inventario compartido.","endpoint":"/api/products","method":"GET","input":{"q":""}}]}

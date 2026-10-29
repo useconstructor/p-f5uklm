@@ -1,0 +1,909 @@
+{
+  "tone": "professional",
+  "fontBody": "IBM Plex Sans",
+  "logoText": "Almacén Claro",
+  "brandbook": {
+    "motif": "La etiqueta cuadriculada del registro de almacén: columnas alineadas, bordes compartidos y una señal vertical verde que identifica la fila cuyo cambio acaba de confirmarse.",
+    "pages": [
+      {
+        "id": "brand-page-1",
+        "title": "Brand guidelines",
+        "layout": "cover",
+        "summary": "Herramienta interna de inventario compartido que prioriza precisión, lectura inmediata y certeza sobre los cambios guardados.",
+        "examples": [
+          {
+            "text": "Inventario compartido",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Align the name, title and short descriptor to one left edge. Leave the right half open.",
+            "title": "Cover composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-2",
+        "title": "The Brand",
+        "layout": "divider",
+        "summary": "Use a Confirmed Green divider with white text. Introduce the identity through one operational sentence, not a commercial slogan.",
+        "examples": [
+          {
+            "text": "Productos, cantidades y valor en un mismo registro.",
+            "title": "Existencias a la vista"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-3",
+        "title": "Welcome",
+        "layout": "content",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "text": "A shared inventory interface with Spanish labels, exact figures and clearly distinguished change states.",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Identity, palette and interface scope: supplied plan. Typeface files: supplied IBM Plex Sans resources. Mark and applications: proposed here.",
+            "title": "Source basis"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-4",
+        "title": "Index",
+        "layout": "content",
+        "summary": "Keep the guide in this sequence: identity, logo, typography, color, graphic language and applications. Use short section labels and right-aligned page ranges.",
+        "examples": [
+          {
+            "text": "The Brand 02–08 · Logo 09–15",
+            "title": "Identity and logo"
+          },
+          {
+            "text": "Typography and layouts 16–22 · Colors 23–25 · Graphic Elements 26–29",
+            "title": "Visual system"
+          },
+          {
+            "text": "Applications 30–48 · Colophon 49",
+            "title": "Applied identity"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-5",
+        "title": "Defining",
+        "layout": "content",
+        "summary": "Express an internal inventory tool, not a shop. Lead with the register and global stock value; avoid landing-page slogans, decorative charts and commerce cues.",
+        "examples": [
+          {
+            "text": "Consulta productos, busca por nombre o SKU y registra cambios.",
+            "title": "Inventario"
+          },
+          {
+            "text": "Almacén Claro → total value → search → product register → contextual dialog → confirmed row.",
+            "title": "Operational sequence"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-6",
+        "title": "Vision & Mission",
+        "layout": "content",
+        "summary": "Describe project purpose rather than inventing corporate ambitions. Keep purpose statements tied to readable stock, precise amounts and acknowledged changes.",
+        "examples": [
+          {
+            "text": "Consultar y mantener un inventario compartido desde una sola pantalla.",
+            "title": "Project purpose"
+          },
+          {
+            "text": "Distinguir lo que estás editando de lo que ya está confirmado.",
+            "title": "Interface objective"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-7",
+        "title": "Brand Values",
+        "layout": "content",
+        "summary": "Treat precision, clarity and certainty as design criteria from the brief, not unsupported corporate claims. Make each visible through a practical interface decision.",
+        "examples": [
+          {
+            "text": "Show 166,20 without a currency symbol. Preserve additional decimal places when the recorded amount requires them.",
+            "title": "Precision"
+          },
+          {
+            "text": "Use Cantidad and Precio unitario as persistent labels, including in stacked mobile rows.",
+            "title": "Clarity"
+          },
+          {
+            "text": "Use Producto guardado only after server confirmation or reconciliation.",
+            "title": "Certainty"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-8",
+        "title": "Tone of Voice",
+        "layout": "content",
+        "summary": "Write interface copy in direct, professional Spanish. Name the action and its actual state. Avoid celebratory language, vague errors and unnecessary technical terminology.",
+        "examples": [
+          {
+            "text": "Producto guardado. Cuaderno cuadriculado · ACL-001.",
+            "title": "Confirmed"
+          },
+          {
+            "text": "No se pudo confirmar el cambio. El envío podría haberse aplicado.",
+            "title": "Unconfirmed"
+          },
+          {
+            "text": "Introduce una cantidad entera igual o mayor que cero.",
+            "title": "Validation"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-9",
+        "title": "Logo",
+        "layout": "divider",
+        "summary": "Introduce the logo on a white study field. Its warehouse-tag shape and internal grid connect the identity to aligned inventory records.",
+        "examples": [
+          {
+            "text": "A gridded label beside a clearly typeset name; never lettering embedded inside the symbol.",
+            "title": "Almacén Claro"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-10",
+        "title": "Logo overview",
+        "layout": "logo",
+        "summary": "The identity has two parts: an original geometric label and the live name Almacén Claro. Keep the grid intact and use one symbol source across interface and icon applications.",
+        "examples": [
+          {
+            "text": "Use the label plus Almacén Claro in the operational header.",
+            "title": "Full identity"
+          },
+          {
+            "text": "Use the label alone for the favicon and application icon, where the name appears elsewhere.",
+            "title": "Compact identity"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-11",
+        "title": "Primary logo",
+        "layout": "logo",
+        "summary": "Set Almacén Claro in IBM Plex Sans 600 at 28/32 px. Pair it with a 40 px symbol canvas and a 12 px gap; vertically center the name against the symbol.",
+        "examples": [
+          {
+            "text": "Preserve the accent, the space and natural capitalization.",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Place the identity left and Agregar producto right. Let the header grow on narrow screens rather than compressing the name.",
+            "title": "Header pairing"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-12",
+        "title": "Logo Safezone",
+        "layout": "logo",
+        "summary": "Use clear space equal to one quarter of the symbol canvas around the full lockup. Do not let table rules, buttons or page edges enter this area.",
+        "examples": [
+          {
+            "text": "Reserve at least 10 px of clear space around the lockup; retain the separate 12 px symbol-to-name gap.",
+            "title": "40 px symbol"
+          },
+          {
+            "text": "Keep 16 px page margins. Move or wrap the action if needed instead of shrinking the lockup.",
+            "title": "390 px header"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-13",
+        "title": "Color combinations",
+        "layout": "colors",
+        "summary": "Use the green symbol with ink lettering on paper or white. On green or ink fields, retain the original symbol on a paper support surface and set the name in white.",
+        "examples": [
+          {
+            "text": "Ledger Paper #F6F7F2 · symbol #286443 · Almacén Claro #202A24.",
+            "title": "Light header"
+          },
+          {
+            "text": "Precision Ink #202A24 · white name · unchanged symbol on a #F6F7F2 support surface.",
+            "title": "Dark cover"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-14",
+        "title": "Brandmark",
+        "layout": "logo",
+        "summary": "Keep the clipped tag corner, circular opening and simple grid together. The mark is a label for organized records, not an initial, barcode or product illustration.",
+        "examples": [
+          {
+            "text": "Use the complete 160 × 160 geometry at 24–40 px in interface studies; do not crop to the grid.",
+            "title": "Small symbol"
+          },
+          {
+            "text": "The header symbol, app/icon.svg and manifest icon use the same source proportions.",
+            "title": "Shared geometry"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-15",
+        "title": "Logo misuse",
+        "layout": "logo",
+        "summary": "Do not stretch, rotate, outline or decorate the mark. Keep its explicit colors and render the business name separately; never replace the accented name with an approximation.",
+        "examples": [
+          {
+            "text": "Correct: Almacén Claro. Incorrect: Almacen Claro, ALMACENCLARO or AC inside the tag.",
+            "title": "Name integrity"
+          },
+          {
+            "text": "Do not add a checkmark, remove grid bars or place the green symbol directly on a green field.",
+            "title": "Geometry integrity"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-16",
+        "title": "Typography",
+        "layout": "divider",
+        "summary": "Use IBM Plex Sans throughout. Introduce the type system with a short Spanish heading, one supporting sentence and ample space rather than decorative letter displays.",
+        "examples": [
+          {
+            "text": "Nombre, SKU, cantidad, precio unitario y valor.",
+            "title": "Cada dato, en su columna"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-17",
+        "title": "Typography overview",
+        "layout": "type",
+        "summary": "Build recognition through one family, steady line heights and tabular figures. Keep interface labels in sentence case and numerical columns aligned to the right.",
+        "examples": [
+          {
+            "text": "3 productos · 40 unidades · Valor total 166,20",
+            "title": "Resumen de existencias"
+          },
+          {
+            "text": "Use 16 px body text and fields, 14 px buttons and auxiliary text no smaller than 12 px.",
+            "title": "Reading rhythm"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-18",
+        "title": "Primary typeface",
+        "layout": "type",
+        "summary": "IBM Plex Sans is the selected heading and body family. Supplied distributable files cover 400, 500, 600 and 700; the application plan uses locally served files.",
+        "examples": [
+          {
+            "text": "Busca por nombre o SKU.",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Cuaderno cuadriculado · ACL-001 · Cantidad 12 · Precio unitario 3,50",
+            "title": "Character specimen"
+          },
+          {
+            "text": "Use IBM Plex Sans for dialogs, table cells and notices; do not introduce a second display family.",
+            "title": "Continuity"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-19",
+        "title": "Typography styles",
+        "layout": "type",
+        "summary": "Use upright 400 for body copy, 500 for controls and 600 for the name and UI headings. Reserve 700 for manual headings. Avoid italics and uppercase as routine status signals.",
+        "examples": [
+          {
+            "text": "Revisa los campos antes de guardar.",
+            "title": "Guardar producto"
+          },
+          {
+            "text": "Set Nombre at 500, the entered product name at 400 and the dialog title Agregar producto at 600.",
+            "title": "Weight contrast"
+          },
+          {
+            "text": "Use tabular figures for 12, 3,50 and 42,00. Never use bold alone to distinguish pending from confirmed data.",
+            "title": "Numerical style"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-20",
+        "title": "Supporting type",
+        "layout": "type",
+        "summary": "Supporting text stays in IBM Plex Sans and Precision Ink. Create quieter hierarchy through weight, placement and size, not low-contrast green-gray text.",
+        "examples": [
+          {
+            "text": "Sin símbolo de moneda.",
+            "title": "Importes en unidades monetarias"
+          },
+          {
+            "text": "Datos iniciales: ejemplos ficticios. Attach this note only to the authorized seed context.",
+            "title": "Example-data note"
+          },
+          {
+            "text": "Place the price instruction below Precio unitario, not inside a disappearing placeholder.",
+            "title": "Helper placement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-21",
+        "title": "Hierarchy",
+        "layout": "type",
+        "summary": "Set the name at 28/32 px, total value at 28/32 px, dialog headings at 20/24 px and body at 16/24 px. Use 14/20 px buttons and 12/16 px notes.",
+        "examples": [
+          {
+            "text": "166,20",
+            "title": "Valor total"
+          },
+          {
+            "text": "Make 166,20 dominant within the continuous band; keep 3 productos and 40 unidades smaller but fully legible.",
+            "title": "Summary sequence"
+          },
+          {
+            "text": "Editar producto → visible field labels → literal entries → state beside Guardar producto.",
+            "title": "Dialog sequence"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-22",
+        "title": "Layouts",
+        "layout": "applications",
+        "summary": "Use a 1200 px maximum container and shared edges for summary, search and register. Space in 4, 8, 12, 16, 24 and 32 px steps; avoid sidebars and separate metric cards.",
+        "examples": [
+          {
+            "text": "Producto | SKU | Cantidad | Precio unitario | Valor | Acciones. Right-align the three numerical columns.",
+            "title": "Desktop register"
+          },
+          {
+            "text": "Group Producto and SKU while retaining quantity, price, value and complete actions. Use one-column forms.",
+            "title": "768 px"
+          },
+          {
+            "text": "Use 16 px margins, a roughly 56 px header, a 64–76 px summary and 44 px search. Stack labeled rows without horizontal scrolling.",
+            "title": "390 px"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-23",
+        "title": "Colors",
+        "layout": "divider",
+        "summary": "Introduce the palette with green as an operational accent, paper as the page field and ink as the reading anchor. Keep the divider simple and text-led.",
+        "examples": [
+          {
+            "text": "Confirmed Green #286443 with white lettering; Ledger Paper #F6F7F2 with Precision Ink #202A24.",
+            "title": "Clear by contrast"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-24",
+        "title": "Colors overview",
+        "layout": "colors",
+        "summary": "Preserve the supplied semantic hex values. Quiet Ink intentionally equals Precision Ink; secondary text changes hierarchy, not color. Keep green-gray for functional borders.",
+        "examples": [
+          {
+            "text": "Ledger Paper #F6F7F2: background. Clear White #FFFFFF: surfaces. Confirmed Green #286443: primary controls and confirmed-row edge.",
+            "title": "Base roles"
+          },
+          {
+            "text": "Precision Ink #202A24: text. Quiet Ink #202A24: secondary text. Functional border #7B887E: field boundaries, not small text.",
+            "title": "Reading roles"
+          },
+          {
+            "text": "Warning #805500 and error #B42318 always accompany explanatory text. Field boundaries need at least 3:1 contrast.",
+            "title": "State extensions"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-25",
+        "title": "Using Tints",
+        "layout": "colors",
+        "summary": "Use the exact solid palette rather than invented pastel state colors. Paper and white provide surface separation; do not reduce text or field-border opacity to create hierarchy.",
+        "examples": [
+          {
+            "text": "Keep the row white and add a solid #286443 left edge. Do not wash every cell in pale green.",
+            "title": "Confirmed row"
+          },
+          {
+            "text": "Set Importes en unidades monetarias in #202A24 at a quieter size and weight, not translucent ink.",
+            "title": "Secondary note"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-26",
+        "title": "Graphic Elements",
+        "layout": "divider",
+        "summary": "Translate the tag grid into shared column edges and restrained rules. Reserve the moving green edge for a server-confirmed or reconciled row; never animate decorative entrances.",
+        "examples": [
+          {
+            "text": "Align the summary edge, search field and Producto column. Use 4 px control radii and avoid floating metric cards.",
+            "title": "Aligned ledger"
+          },
+          {
+            "text": "Move the green left-edge highlight for 180 ms, then hold briefly. With reduced motion, show it immediately and announce the result.",
+            "title": "Confirmation signature"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-27",
+        "title": "Icons",
+        "layout": "content",
+        "summary": "Use simple interface icons only where they aid recognition. Keep Editar and Eliminar textual, give controls at least 44 px targets and never communicate state through an icon alone.",
+        "examples": [
+          {
+            "text": "A 16 px magnifier may accompany Buscar por nombre o SKU; the visible search label remains.",
+            "title": "Search"
+          },
+          {
+            "text": "Visible: Editar. Accessible name: Editar Cuaderno cuadriculado, ACL-001.",
+            "title": "Row actions"
+          },
+          {
+            "text": "An alert icon accompanies El SKU ACL-001 ya existe; it never replaces the message.",
+            "title": "Error"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-28",
+        "title": "Photography",
+        "layout": "applications",
+        "summary": "Do not use photographs, illustrations or image crops. Product names and exact figures are the content; product imagery would compete with comparison and add unsupported catalog behavior.",
+        "examples": [
+          {
+            "text": "Show Caja organizadora · ACL-002 as text, not a box photograph or stock illustration.",
+            "title": "Product representation"
+          },
+          {
+            "text": "No hay productos. Agrega un producto para comenzar. Use concise text and an action, not an empty-warehouse image.",
+            "title": "Empty inventory"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-29",
+        "title": "Moodboard",
+        "layout": "applications",
+        "summary": "Build a reference board from typography, palette fields and ledger fragments. Keep the mood professional and compact; exclude lifestyle imagery, gradients and decorative dashboards.",
+        "examples": [
+          {
+            "text": "Paper field, white register, ink labels, green tag and one confirmed-row edge.",
+            "title": "Material language"
+          },
+          {
+            "text": "Almacén Claro / Valor total 166,20 / Buscar por nombre o SKU / Cuaderno cuadriculado.",
+            "title": "Content rhythm"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-30",
+        "title": "Applications",
+        "layout": "divider",
+        "summary": "Label all application boards Design study. Use actual Spanish interface copy and authorized sample data. External-format studies express the identity without adding channels or product features.",
+        "examples": [
+          {
+            "text": "Inventario compartido",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Design study — inventory interface. Keep the caption outside the specimen so it cannot be mistaken for an application control.",
+            "title": "Study caption"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-31",
+        "title": "Social media icons",
+        "layout": "logo",
+        "summary": "Design study: demonstrate avatar-scale recognition without implying a social account. Center the complete symbol on paper and keep it separate from interface action icons.",
+        "examples": [
+          {
+            "text": "Inventario compartido",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Place the symbol within a paper square with generous padding. Do not add initials, a handle or a verification badge.",
+            "title": "Avatar composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-32",
+        "title": "Social media profiles",
+        "layout": "applications",
+        "summary": "Design study: use a neutral profile-format board to show name and descriptor hierarchy. Do not invent handles, follower counts, contact details or published channels.",
+        "examples": [
+          {
+            "text": "Productos, cantidades y valor en un registro compartido.",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Pair the paper-backed symbol with the name at 600 and a one-line descriptor at 400. Omit platform metrics and buttons.",
+            "title": "Profile layout"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-33",
+        "title": "Instagram posts",
+        "layout": "applications",
+        "summary": "Design study: adapt the ledger to a square editorial tile, not a campaign claim. Use one headline, one sample-data fragment and a discreet fictitious-data note.",
+        "examples": [
+          {
+            "text": "3 productos · 40 unidades · Valor total 166,20. Datos iniciales: ejemplos ficticios.",
+            "title": "Existencias a la vista"
+          },
+          {
+            "text": "Keep 32 px internal spacing on a 675 px study board. Align the headline and continuous data band; omit engagement controls.",
+            "title": "Square composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-34",
+        "title": "Posters",
+        "layout": "applications",
+        "summary": "Design study: create an internal instructional poster with one useful message. Use paper, ink and a single green rule; avoid promotional offers or invented destinations.",
+        "examples": [
+          {
+            "text": "Consulta el nombre o SKU para localizar el producto en el inventario.",
+            "title": "Busca antes de agregar"
+          },
+          {
+            "text": "Place Almacén Claro above the headline, supporting copy below and the tag in one corner. Do not add an unprovided QR destination.",
+            "title": "Poster hierarchy"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-35",
+        "title": "T shirts and totes",
+        "layout": "applications",
+        "summary": "Design study: show restrained identity placement on a flat garment or tote outline. These are material studies, not merchandise listings; include no prices or purchase prompts.",
+        "examples": [
+          {
+            "text": "Inventario compartido",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Use a small left-chest lockup or a centered tote lockup. On dark fabric, give the unchanged symbol a paper support patch.",
+            "title": "Placement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-36",
+        "title": "Supply packaging",
+        "layout": "applications",
+        "summary": "Design study: adapt packaging to an internal storage label, not takeaway or shipping commerce. Put product name first, SKU second and quantity in a clearly labeled cell.",
+        "examples": [
+          {
+            "text": "SKU ACL-002 · Cantidad 8 · Ejemplo ficticio",
+            "title": "Caja organizadora"
+          },
+          {
+            "text": "Use a white label with ink text and a small green tag. Keep quantity distinct from the SKU; do not invent barcodes or tracking.",
+            "title": "Label grid"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-37",
+        "title": "Storage location",
+        "layout": "applications",
+        "summary": "Design study: use a physical finding-aid format without inventing an address, stock-location field or pickup service. Keep the message focused on finding records by name or SKU.",
+        "examples": [
+          {
+            "text": "Busca por nombre o SKU en Almacén Claro.",
+            "title": "Localiza el producto"
+          },
+          {
+            "text": "Use one large heading and a compact ACL-001 example. Avoid aisle codes, maps or location data absent from the product model.",
+            "title": "Finding-aid panel"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-38",
+        "title": "Inventory controls",
+        "layout": "applications",
+        "summary": "Design study: use green for the primary action and complete text labels for row actions. Keep Guardar producto activatable when invalid; only a pending submission blocks double sending.",
+        "examples": [
+          {
+            "text": "Nombre · SKU · Cantidad · Precio unitario",
+            "title": "Agregar producto"
+          },
+          {
+            "text": "El nombre es obligatorio. El SKU ACL-001 ya existe. La cantidad no puede superar 9007199254740991.",
+            "title": "Validation copy"
+          },
+          {
+            "text": "¿Eliminar Cuaderno cuadriculado, ACL-001? Esta acción no se puede deshacer. Cancelar / Eliminar producto.",
+            "title": "Delete confirmation"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-39",
+        "title": "Change confirmation",
+        "layout": "applications",
+        "summary": "Design study: replace a sales receipt with a contextual change acknowledgment. Show it only after confirmation; do not imply a downloadable receipt, order number or transaction history.",
+        "examples": [
+          {
+            "text": "Cuaderno cuadriculado · ACL-001",
+            "title": "Producto guardado"
+          },
+          {
+            "text": "Producto guardado. No aparece porque no coincide con la búsqueda actual.",
+            "title": "Filtered result"
+          },
+          {
+            "text": "No se pudo confirmar el cambio. El envío podría haberse aplicado. Recuperar envío.",
+            "title": "Uncertain result"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-40",
+        "title": "Inventory reference card",
+        "layout": "applications",
+        "summary": "Design study: replace a rewards card with a compact field-reference card. Use the ledger grid to teach valid input; no points, membership levels or account identifiers.",
+        "examples": [
+          {
+            "text": "Nombre y SKU obligatorios. Cantidad entera no negativa. Precio no negativo.",
+            "title": "Antes de guardar"
+          },
+          {
+            "text": "Introduce el precio con coma o punto decimal, sin separadores de miles. Se admite cero y más de dos decimales.",
+            "title": "Price guidance"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-41",
+        "title": "Workspace sign",
+        "layout": "applications",
+        "summary": "Design study: adapt signage to an internal inventory workspace. Use the full name and descriptor, strong contrast and generous clear space; do not invent a venue or public opening hours.",
+        "examples": [
+          {
+            "text": "Inventario compartido",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Use ink lettering on paper with the green tag at left. Scale the entire lockup proportionally and leave the lower field clear.",
+            "title": "Sign composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-42",
+        "title": "Inventory website",
+        "layout": "applications",
+        "summary": "Design study: / is the only UI page. Add, edit, delete, conflict and recovery are dialogs or states. Show shared Turso-backed records; never suggest browser-only saving or invented account routes.",
+        "examples": [
+          {
+            "text": "166,20 · 3 productos · 40 unidades. Importes en unidades monetarias. Datos iniciales: ejemplos ficticios.",
+            "title": "Valor total"
+          },
+          {
+            "text": "Buscar por nombre o SKU → 1 coincidencia. Keep the global summary unchanged by filtering; use Limpiar búsqueda for no matches.",
+            "title": "Search and state"
+          },
+          {
+            "text": "GET /api/products reads stock. POST product routes handle add, update and delete; operation routes support recovery, not extra UI pages.",
+            "title": "Route alignment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-43",
+        "title": "Favicon",
+        "layout": "logo",
+        "summary": "Design study: reuse the exact label geometry for app/icon.svg and the manifest icon. Use a paper support surface on colored tiles; do not substitute initials or a separate small-size drawing.",
+        "examples": [
+          {
+            "text": "Almacén Claro",
+            "title": "Almacén Claro — Inventario"
+          },
+          {
+            "text": "Show the same complete symbol at 16, 32 and 48 px on the study board. Preserve the clipped corner, opening and grid.",
+            "title": "Icon scale"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-44",
+        "title": "Stationery",
+        "layout": "applications",
+        "summary": "Design study: apply the identity to an internal inventory sheet. Align the lockup, title and tabular content on one edge; do not imply a generated export or an official financial document.",
+        "examples": [
+          {
+            "text": "Cuaderno cuadriculado · ACL-001 · 12 unidades · Precio unitario 3,50 · Valor 42,00",
+            "title": "Resumen de inventario"
+          },
+          {
+            "text": "Use a paper field, white data area and ink text. Put Datos de ejemplo ficticios beside the seed specimen, not on every future record.",
+            "title": "Sheet structure"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-45",
+        "title": "Contact cards",
+        "layout": "applications",
+        "summary": "Design study: use a card-sized identity introduction rather than inventing employee details. Set the name and tool descriptor with generous space; omit unsupported email, phone and address fields.",
+        "examples": [
+          {
+            "text": "Consulta y registro de existencias.",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Front: full lockup on paper. Back: Productos · Cantidades · Valor in an aligned three-line composition.",
+            "title": "Two-sided study"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-46",
+        "title": "Stock value card",
+        "layout": "applications",
+        "summary": "Design study: replace a gift card with a static stock-value explainer. No redeemable balance, voucher code or payment action. This card format does not replace the app’s continuous summary band.",
+        "examples": [
+          {
+            "text": "Cinta de embalaje · ACL-003 · 20 × 2,25 = 45,00",
+            "title": "Valor del producto"
+          },
+          {
+            "text": "Lead with the calculated value and label the quantity and unit price beneath it. Mark this seed-based specimen as fictitious.",
+            "title": "Value hierarchy"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-47",
+        "title": "Inventory label seal",
+        "layout": "applications",
+        "summary": "Design study: place the unchanged tag on a small inventory-label seal. Treat it as identification, never proof of approval, a guarantee or evidence that an app change was saved.",
+        "examples": [
+          {
+            "text": "Registro de existencias",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Center the green symbol on paper. Place the name outside the symbol in real typography; omit checkmarks and quality claims.",
+            "title": "Seal composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-48",
+        "title": "User support",
+        "layout": "applications",
+        "summary": "Design study: support users through contextual messages on /. Preserve drafts and confirmed data, distinguish conflict from lost confirmation, and explain real session or database barriers without simulated success.",
+        "examples": [
+          {
+            "text": "El envío podría haberse aplicado. Recupera el envío original antes de decidir cómo continuar.",
+            "title": "No se pudo confirmar el cambio"
+          },
+          {
+            "text": "Conservamos tu borrador. Revisa los cambios antes de volver a guardar.",
+            "title": "Este producto cambió"
+          },
+          {
+            "text": "Reintentar. Si las cookies bloqueadas impiden guardar: permite las cookies de la aplicación o ábrela fuera del marco.",
+            "title": "No se pudo cargar el inventario"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-49",
+        "title": "Thank you",
+        "layout": "cover",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "text": "Un registro claro. Cambios con confirmación.",
+            "title": "Almacén Claro"
+          },
+          {
+            "text": "Supplied Almacén Claro project plan, brandIdentity, branding, palette and IBM Plex Sans fontResources. Original geometric mark proposed for this guide.",
+            "title": "Source list"
+          }
+        ]
+      }
+    ],
+    "voice": "Español directo, profesional y operativo. Etiquetas completas, verbos concretos y mensajes que distinguen borrador, pendiente, conflicto y cambio confirmado. Sin promesas comerciales ni tecnicismos innecesarios en la interfaz.",
+    "colors": [
+      {
+        "hex": "#F6F7F2",
+        "name": "Ledger Paper",
+        "role": "background"
+      },
+      {
+        "hex": "#FFFFFF",
+        "name": "Clear White",
+        "role": "surface"
+      },
+      {
+        "hex": "#286443",
+        "name": "Confirmed Green",
+        "role": "accent"
+      },
+      {
+        "hex": "#202A24",
+        "name": "Precision Ink",
+        "role": "text"
+      },
+      {
+        "hex": "#202A24",
+        "name": "Quiet Ink",
+        "role": "muted"
+      }
+    ],
+    "origin": "proposed",
+    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><path fill=\"#286443\" d=\"M28 20H106L136 50V140H28Z\"/><circle cx=\"113\" cy=\"45\" r=\"7\" fill=\"#F6F7F2\"/><path fill=\"#FFFFFF\" d=\"M46 64H118V70H46ZM46 90H118V96H46ZM46 116H118V122H46Z\"/><path fill=\"#FFFFFF\" d=\"M70 64H76V122H70Z\"/></svg>",
+    "sources": [
+      "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+    ],
+    "version": 1,
+    "fontFaces": [
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-F5UKLM/brand/fonts/6dbe082463cf749cfa057d45c3048c90f4df031496498e5b5bdfd0b6babb9d16.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "6dbe082463cf749cfa057d45c3048c90f4df031496498e5b5bdfd0b6babb9d16",
+        "weight": "400",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD6llzAA.ttf"
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-F5UKLM/brand/fonts/6f7a8c4219e021ff7c9131bc5f1f7af97bcd1436a59578d444a8cb92e9791742.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "6f7a8c4219e021ff7c9131bc5f1f7af97bcd1436a59578d444a8cb92e9791742",
+        "weight": "500",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD2FlzAA.ttf"
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-F5UKLM/brand/fonts/5311c66fd6d04ae45671236f7eae667b671c06c1dc7e88d52c206e5fadd0fb21.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "5311c66fd6d04ae45671236f7eae667b671c06c1dc7e88d52c206e5fadd0fb21",
+        "weight": "600",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDNF5zAA.ttf"
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-F5UKLM/brand/fonts/e129a20e8ff7c907ffd07124b573e88c323b7b18afc934d4aa539a3e0f2fe100.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "e129a20e8ff7c907ffd07124b573e88c323b7b18afc934d4aa539a3e0f2fe100",
+        "weight": "700",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDDV5zAA.ttf"
+      }
+    ],
+    "positioning": "Herramienta interna de inventario compartido que prioriza precisión, lectura inmediata y certeza sobre los cambios guardados. No es una marca comercial de demostración; únicamente el seed inicial contiene productos ficticios autorizados.",
+    "researchStatus": "not_requested",
+    "tokenSemanticsVersion": 1
+  },
+  "textColor": "#202A24",
+  "accentColor": "#286443",
+  "fontHeading": "IBM Plex Sans",
+  "borderRadius": "0.25rem",
+  "logoImageUrl": null,
+  "primaryColor": "#286443",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#F6F7F2"
+}
